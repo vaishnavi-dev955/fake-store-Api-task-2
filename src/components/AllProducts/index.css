@@ -1,0 +1,14 @@
+.products-main-container1 {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.main-container1 {
+  text-align: center;
+  background-color: transparent;
+}
+.p-heading {
+  color: navy;
+  font-size: 35px;
+  font-weight: bold;
+}

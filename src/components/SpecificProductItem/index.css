@@ -1,0 +1,29 @@
+.specific-product-main-container {
+  text-align: left;
+  height: 100%;
+}
+.specific-image {
+  height: 15%;
+  width: 20%;
+  margin-top: 10px;
+  margin-left: 50px;
+}
+
+.title-heading {
+  color: #69231e;
+  font-size: 20px;
+  font-weight: bold;
+  padding-left: 50px;
+}
+.All-para {
+  color: black;
+  font-size: 18px;
+  padding-left: 50px;
+}
+
+.All-para1 {
+  color: black;
+  font-size: 18px;
+  padding-left: 50px;
+  padding-right: 60%;
+}

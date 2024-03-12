@@ -1,0 +1,23 @@
+/* Write your CSS code here */
+.Home-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.product-button {
+  background-color: aqua;
+  color: blueviolet;
+  height: 50px;
+  width: 150px;
+  font-size: 17px;
+  border: 0px solid;
+}
+
+.Home-heading {
+  color: navy;
+  font-size: 30px;
+  font-weight: bold;
+  padding-top: 200px;
+}

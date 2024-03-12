@@ -1,0 +1,37 @@
+.list-main-container1 {
+  background-color: paleturquoise;
+  height: 400px;
+  width: 400px;
+  list-style-type: none;
+  margin: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.img-style1 {
+  height: 250px;
+  width: 250px;
+  margin-top: 40px;
+}
+.price-para {
+  color: black;
+  font-size: 25px;
+  font-weight: bold;
+}
+.count-para {
+  color: black;
+  font-size: 25px;
+  font-weight: bold;
+  padding-left: 20px;
+}
+
+.mini-items-container {
+  display: flex;
+  align-items: space-around;
+  justify-content: space-around;
+}
+
+.link-item {
+  text-decoration: none;
+}
